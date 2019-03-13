@@ -10,9 +10,9 @@ Q3 - Activate the “Elements” tab. Observe the page’s code and describe the
 
 Firstly, I could identify that there are the tags <html> limiting the code and, in effect the page.  
 
-Secondly, there is the tags <head> limiting the head title’s code, in this part there are defined the title (<title>), the meta data (<meta>) which commonly describes the page’s Information, specifically, the content’s type, style, script and tool bar. Then, there are links (<link>) that are used to link to external style sheets. 
+Secondly, there is the tags < head > limiting the head title’s code, in this part there are defined the title (< title >), the meta data (< meta >) which commonly describes the page’s Information, specifically, the content’s type, style, script and tool bar. Then, there are links (< link >) that are used to link to external style sheets. 
 
-Thirdly, there is the body (<body>) of the page, in this section is included the texts and images that will be display, and indicators of the characteristics that information should have. Moreover, in the body, there's <center> tag, to center aligned text. Also, the <table> tag it's used to defined to HTML's table. Then, there's <tbody> tag, this one is used to organize the body in HTML tables, we could appreciate that each news that's published in this section, it's attributes and the link that will direct us to the news. In specific, <tr> roll in to HTML's table, < td > set to HTML's table that's left aligned, <img> is to define an image in HTML and the tag <script> that points to an external script file.
+Thirdly, there is the body (< body >) of the page, in this section is included the texts and images that will be display, and indicators of the characteristics that information should have. Moreover, in the body, there's < center > tag, to center aligned text. Also, the < table > tag it's used to defined to HTML's table. Then, there's < tbody > tag, this one is used to organize the body in HTML tables, we could appreciate that each news that's published in this section, it's attributes and the link that will direct us to the news. In specific, < tr > roll in to HTML's table, < td > set to HTML's table that's left aligned, < img > is to define an image in HTML and the tag <script> that points to an external script file.
 
 Q4 - Activate the tab “Sources”. Describe each one of the files.
 
