@@ -35,8 +35,11 @@ XHR Request is an API available to web browser scripting languages (JavsScript).
 Furthermore, the files are loaded after the request is send. For example, the file news.ycombinator.com, this file has the following request:
 
 Request/Response
+
 Request sent 78 us
+
 Waiting (TTFB) 208.17 ms
+
 Content Download 1.18 mw
  
 This one is loaded at 1.18 ms after the refresh. 
