@@ -46,7 +46,7 @@ This one is loaded at 1.18 ms after the refresh.
 
 Q6 - Activate the tab “Security”. Find out what entity (certifying authority) emitted the certificate used by the web site, and the expiration date of the certificate.
 
-The certificate expires: Monday, January 18, 2038, 20:59:59 Chilean summer time. Moreover, the company that issued the certificate is COMODO CA Limited it is located in Salford, Greater Manchester, Great Britain. 
+The certificate expires: Wednesday, August 21, 2019, 19:59:59 Chile standard time. Moreover, the company that issued the certificate is COMODO RSA Domain Validation Secure Server CA and it is located in Salford, Greater Manchester, Great Britain. 
 
 
 
